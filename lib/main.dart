@@ -111,7 +111,7 @@ class _FruitMatcherState extends State<FruitMatcher> {
                 icon: Icon(Icons.clear, size: 35, color: Colors.white),
                 label: Text('CLEAR', style: GoogleFonts.fredokaOne(fontSize: 26, color: Colors.white)),
               ),
-            )
+            ),
           ],
         ),
       ),
